@@ -1,16 +1,31 @@
-### console.log("Hi there 👋") 
 
-<!--
-**Estdiag/Estdiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align= "center"><b> console.log("Hola, soy Estef 🌻")</b></h2>
+<div align="center"><img width= 30% src="https://media.giphy.com/media/SUtKUblVAvwMkTvaiT/giphy.gif"</div>
+<h3 align= "center">Desarrollador Web Full Stack💻, Soy una persona CAPAZ que busca hacer parte de un equipo ganador 🤜🏾🤛🏻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const estef = {    
+    code: ["Javascript"],
+    technologies: {
+          frondEnd:["ReactJS", "HTML", "CSS"],
+          backEnd:["node", "express"],
+          orm: ["sequelize"]
+        },
+        databases: ["PostgreSQL", "MySql"]       
+    };
+```
+
+<h3>🛠 Me gustaria aprender</h3>
+
+-🧠 &nbsp; Python | Java | Angular |
+
+<h3>👋 Contactame</h3>
+  
+<p align="center">
+  <a href="mailto:estefanydiaz@75gmail.com?subject=PRUEBA&body=Hola!"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/estefany-diaz-guizao/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+</p>  
+
+  
