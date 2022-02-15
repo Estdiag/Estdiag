@@ -9,7 +9,7 @@
 const estef = {    
     code: ["Javascript"],
     technologies: {
-          frondEnd:["ReactJS", "HTML", "CSS"],
+          frondEnd:["ReactJS","Redux", "HTML", "CSS"],
           backEnd:["node", "express"],
           orm: ["sequelize"]
         },
