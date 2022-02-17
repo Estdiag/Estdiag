@@ -2,7 +2,7 @@
 
 <h2 align= "center"><b> console.log("Hola, soy Estef 🌻")</b></h2>
 <div align="center"><img width= 30% src="https://media.giphy.com/media/SUtKUblVAvwMkTvaiT/giphy.gif"</div>
-<h3 align= "center">Desarrollador Web Full Stack💻, Soy una persona CAPAZ que busca hacer parte de un equipo ganador 🤜🏾🤛🏻</h3>
+<h3 align= "center">Desarrollador Web Full Stack💻, Soy una persona CAPAZ que busca ser parte de un equipo ganador 🤜🏾🤛🏻</h3>
 
 
 ```javascript
