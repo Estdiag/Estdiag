@@ -19,7 +19,7 @@ const estef = {
 
 <h3>🛠 Me gustaria aprender</h3>
 
--🧠 &nbsp; Python | Java | Angular |
+-🧠 &nbsp; Python | Java 
 
 <h3>👋 Contactame</h3>
   
