@@ -8,29 +8,23 @@
 const estef = {    
     code: ["Javascript"],
     technologies: {
-          frondEnd:["ReactJS","Redux", "HTML", "CSS"],
-          backEnd:["nodeJs", "express"],
-          orm: ["sequelize"]
+          frondEnd:["ReactJS","Redux", "HTML", "CSS"],         
         },
-        databases: ["PostgreSQL", "MySql"]       
+             
     };
 ```
 
 <h3> Algunos datos sobre mi: </h3>
 
-- 💡 Mi experiencia laboral mas recientes, es con ReactJS
-- 🌱 Tengo 7 meses de experiencia laboral
-- ✈ De las cosas que más disfruto hacer es viajar y conocer personas
-- 📫 En mis tiempos libres me gusta leer sobre el comportamiento humano 
+- 💡 Mi experiencia laboral mas recientes, es con ReactJS.
+- 🌱 Tengo 2 años de experiencia laboral.
+- 📫 De las cosas que más disfruto hacer es conocer personas y ver videos sobre ciencia.
 
-<h3>🛠Otros lenguajes que me gustaria aprender</h3>
-
-- 🧠 &nbsp; Python | Java 
 
 <h3>👋 Contactame</h3>
   
 - 📧 estefanydiaz75@gmail.com
-- <a href="https://www.linkedin.com/in/estefany-diaz-guizao/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+
   
 
   
