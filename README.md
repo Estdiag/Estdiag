@@ -17,7 +17,7 @@ const estef = {
 <h3> Algunos datos sobre mi: </h3>
 
 - 💡 Mi experiencia laboral mas recientes, es con ReactJS.
-- 🌱 Tengo 2 años de experiencia laboral.
+- 🌱 Tengo más de 3 años de experiencia laboral.
 - 📫 De las cosas que más disfruto hacer es conocer personas y ver videos sobre ciencia.
 
 
