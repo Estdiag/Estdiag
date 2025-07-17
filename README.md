@@ -8,7 +8,7 @@
 const estef = {    
     code: ["Javascript"],
     technologies: {
-          frondEnd:["ReactJS","Redux", "HTML", "CSS", Typescript, Zustand],         
+          frondEnd:["ReactJS","Redux", "HTML", "CSS", "Typescript", "Zustand"],         
         },
              
     };
